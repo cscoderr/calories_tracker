@@ -1,16 +1,8 @@
-# calories_tracker
+# Calories Tracker
 
-A new Flutter project.
+A Calories tracker design using flutter custom paint.
 
-## Getting Started
+Dribble: https://dribbble.com/shots/17358535-Sportly-Sleep-Monitor-Heart-Rate-and-Calories-Tracker/attachments/12479490?mode=media
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<img src="1.png" width="50%" vspace="10" hspace="10">
