@@ -138,8 +138,3 @@ extension NumX on num {
   double get degrees => (this * 180.0) / math.pi;
   double get radians => (this * math.pi) / 180;
 }
-
-Offset toPolar(Offset center, double radians, double radius) {
-  return center +
-      Offset(radius * math.cos(radians), radius * math.sin(radians));
-}
